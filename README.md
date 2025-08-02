@@ -63,4 +63,4 @@ GitHub (for project hosting)
 🔗 Author
 Molka Khelifa
 Business Intelligence Student
-Connect with me on [LinkedIn][(https://www.linkedin.com/in/ton-nom/](https://www.linkedin.com/in/molka-khalifa-81b174340/))
+Connect with me on [LinkedIn](https://www.linkedin.com/in/molka-khalifa-81b174340/))

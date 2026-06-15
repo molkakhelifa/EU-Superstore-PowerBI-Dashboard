@@ -1,9 +1,9 @@
-📊 EU Superstore - Power BI Dashboard
+ EU Superstore - Power BI Dashboard
 This project presents a full Sales, Product, Customer and Regional Analysis using the EU Superstore dataset, developed with Power BI.
-📁 Project file
+ Project file
 projet.pbix
 
-📌 Dashboard Pages:
+ Dashboard Pages:
 Overview
 
 Global KPIs: Total Sales, Profit, Quantity, and Discount
@@ -42,18 +42,18 @@ Sales by Region and State
 
 Profitability Map
 
-💡 Insights
-📈 Sales increased every year, especially in 2018
+ Insights
+ Sales increased every year, especially in 2018
 
-💰 Technology is the most profitable category
+ Technology is the most profitable category
 
-📦 Phones and Chairs are top-performing sub-categories
+ Phones and Chairs are top-performing sub-categories
 
-🌍 West and Central are the most profitable regions
+ West and Central are the most profitable regions
 
-👤 Consumer segment generates the most revenue
+ Consumer segment generates the most revenue
 
-🛠 Tools Used
+ Tools Used
 Power BI
 
 Excel (for data cleaning)
